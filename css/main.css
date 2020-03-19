@@ -3,3 +3,13 @@ input {
     background: transparent;
     border: none;
 }
+
+textarea {
+    background: transparent;
+    border: none;
+    resize: none;
+}
+
+textarea:focus, input:focus{
+    outline: none;
+}

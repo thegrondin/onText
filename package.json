@@ -20,6 +20,7 @@
     "electron": "^8.1.1"
   },
   "dependencies": {
+    "autosize": "^4.0.2",
     "showdown": "^1.9.1"
   }
 }
